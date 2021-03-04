@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "问道扫货", "问道扫货\问道扫货.csproj", "{F99E1D8C-490B-4C75-A72F-C1F2D863600C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F99E1D8C-490B-4C75-A72F-C1F2D863600C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99E1D8C-490B-4C75-A72F-C1F2D863600C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99E1D8C-490B-4C75-A72F-C1F2D863600C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99E1D8C-490B-4C75-A72F-C1F2D863600C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30E54AD6-FF26-4DFA-8088-342FE49EE2AB}
+	EndGlobalSection
+EndGlobal
